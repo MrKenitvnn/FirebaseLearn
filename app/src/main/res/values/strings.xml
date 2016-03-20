@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireBaseLearn</string>
+    <string name="dang_nhap_voi_facebook">SignIn with Facebook</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="your_name">Your Name</string>
+    <string name="password">Password</string>
+
+    <string name="err_msg_name">This field is required</string>
+    <string name="err_msg_email">This field is required</string>
+    <string name="err_msg_email_is_already">This email is already</string>
+    <string name="err_msg_password">This field is required</string>
+    <string name="logo_firebase">logo firebase</string>
+</resources>
